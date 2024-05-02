@@ -8,15 +8,15 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    width: 98%;
+    width: 95%;
 }
 
 .banner2 {
     display: flex;
     justify-content: center;
     position: absolute;
-    width: 98%;
-    height: 276px;
+    width: 96%;
+    height: 220px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 
 }
@@ -26,15 +26,15 @@
     justify-content: center;
     position: absolute;
     width: 98%;
-    top: 300px;
+    top: 260px;
     height: 850px;
 }
 
 .images_h3 {
     position: absolute;
     height: 30px;
-    width: 90%;
-    background-color: rgb(191, 197, 213);
+    width: 80%;
+    background-color: rgb(192, 214, 227);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,12 +47,35 @@
     position: absolute;
     top: 60px;
     width: 360px;
-    height:800px;
+}
+
+.sapn_box {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    padding: 3px;
 }
 
 .images_size {
-    width: 170px;
-    margin: 10px 10px;
+    width: 150px;
+    margin: 8px 10px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, .5);
+    margin-left: 14px;
+}
+
+.buttom_box {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 640px;
+    width: 98%;
+    height: 100px;
+}
+
+.bottom_size {
+    width: 70%;
+    display: flex;
+    left: 30%;
+    position: absolute;
 
 }
