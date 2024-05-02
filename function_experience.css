@@ -1,22 +1,22 @@
 .all {
     display: flex;
     justify-content: center;
-    height: 1000px;
+    height: 700px;
 }
 
 .banner1_box {
     display: flex;
     justify-content: center;
     position: absolute;
-    width: 98%;
+    width: 95%;
 }
 
 .banner1 {
     display: flex;
     justify-content: center;
     position: absolute;
-    width: 98%;
-    height: 260px;
+    width: 96%;
+    height: 220px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 }
 
@@ -24,20 +24,20 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    top: 350px;
+    top: 300px;
 }
 
 .upload_images1 {
-    width: 200px;
+    width: 150px;
 }
 
 .button_box {
     display: flex;
     justify-content: center;
     position: absolute;
-    top: 600px;
+    top: 500px;
 }
 
 .button_image {
-    width: 370px;
+    width: 300px;
 }
